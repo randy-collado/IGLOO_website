@@ -11,3 +11,7 @@
 .container.space-around {
   justify-content: space-around;
 }
+
+.button{
+  font: arial black;
+}
