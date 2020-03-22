@@ -1,4 +1,13 @@
 .title{
   text-align: center;
   color: yellow;
+  font: arial black;
+}
+
+.container{
+  display: flex;
+}
+
+.container.space-around {
+  justify-content: space-around;
 }
